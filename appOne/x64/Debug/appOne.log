@@ -1,0 +1,17 @@
+﻿  Game.cpp
+  gmain.cpp
+  コードを生成中...
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(150,57): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(154,60): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(158,60): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(162,60): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(167,62): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(171,62): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(176,64): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(180,64): warning C4305: '*=': 'double' から 'float' へ切り詰めます。
+C:\Users\kan_k\Desktop\新しいフォルダー (10)\appOne\Game.cpp(204,47): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+libOne.lib(graphic.obj) : warning LNK4099: PDB '' が 'libOne.lib(graphic.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libOne.lib(mathUtil.obj) : warning LNK4099: PDB '' が 'libOne.lib(mathUtil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libOne.lib(MATRIX.obj) : warning LNK4099: PDB '' が 'libOne.lib(MATRIX.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libOne.lib(window.obj) : warning LNK4099: PDB '' が 'libOne.lib(window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  appOne.vcxproj -> C:\Users\kan_k\Desktop\新しいフォルダー (10)\x64\Debug\Pong.exe
