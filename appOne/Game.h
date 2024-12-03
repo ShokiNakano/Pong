@@ -5,11 +5,11 @@ public:
 	bool Initialize();
 	void RunLoop();
 	void Shutdown();
+	
 private:
 	void ProcessInput();
 	void UpdateGame();
 	void GenerateOutput();
-
 	struct Data
 	{
 		float h;
@@ -27,5 +27,10 @@ private:
 	Data mPaddle2;
 	Data mAccelerate1;
 	Data mAccelerate2;
+	Data mAccelerate3;
+	Data mDeceleration;
+	Data mDeceleration2;
+	Data mFlip;
+	Data mFlip2;
 };
 
